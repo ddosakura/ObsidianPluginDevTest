@@ -1,2 +1,5 @@
 .obsidian/graph.json
 .obsidian/workspace.json
+.obsidian/**/data.json
+.obsidian/plugins/obsidian-chatgpt-plugin/main.js
+.obsidian/plugins/obsidian-render-plugin/main.js
